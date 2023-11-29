@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Styles for the entire page (except Navbar) */
+.page {
+  padding: 20px; /* Adjust to your layout */
+}
+
+/* Dark mode styles */
+.dark-mode {
+  background-color: #333; /* Dark background color */
+  color: white; /* Light text color */
+}
+
+.dark-mode-toggle-button.dark {
+  transform: translateX(30px); /* Slide the button to the right for dark mode */
+}
+
+.dark-mode-toggle-button {
+  background-color: transparent;
+  border: 2px solid;
+  border-radius: 50%; /* Make the button round */
+  padding: 8px 12px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s; /* Apply transitions for color change */
+
+  /* Style for the 'Light' mode button */
+  &.light {
+    background-color: #fff;
+    color: #000;
+    border-color: #000;
+  }
+
+  /* Style for the 'Dark' mode button */
+  &.dark {
+    background-color: #333;
+    color: #fff;
+    border-color: #fff;
+  }
+}
+/*style for active navbar button*/
+.active {
+  background-color: #3553ff;
+  color: #fff;
+  border-radius: 5px;
+  padding: 5px 2px;
+
+}
+
+
