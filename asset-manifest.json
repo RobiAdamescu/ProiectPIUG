@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ProiectPIUG/static/css/main.39a36b2b.css",
+    "main.js": "/ProiectPIUG/static/js/main.0559187b.js",
+    "static/media/video.mp4": "/ProiectPIUG/static/media/video.fee2016eb97bed2f4a70.mp4",
+    "static/media/suspension.jpg": "/ProiectPIUG/static/media/suspension.ae3b6dd0bfe24c7646c6.jpg",
+    "static/media/poza.jpg": "/ProiectPIUG/static/media/poza.cec54329b57765556923.jpg",
+    "static/media/letters.jpeg": "/ProiectPIUG/static/media/letters.bb9227295562e8cdb252.jpeg",
+    "static/media/TrafficLight.jpg": "/ProiectPIUG/static/media/TrafficLight.9fb9369ee2946425da35.jpg",
+    "static/media/piston.jpg": "/ProiectPIUG/static/media/piston.06be8813b8b016988ed2.jpg",
+    "static/media/wheels.jpg": "/ProiectPIUG/static/media/wheels.f2f2009b87d037efd4b0.jpg",
+    "static/media/brakes.jpg": "/ProiectPIUG/static/media/brakes.2e1e2eaee71edbe739b5.jpg",
+    "static/media/vinyl.jpg": "/ProiectPIUG/static/media/vinyl.2fbda24e2fa099727e2f.jpg",
+    "static/media/gearbox.jpg": "/ProiectPIUG/static/media/gearbox.c35e2a01c6b92b207f72.jpg",
+    "index.html": "/ProiectPIUG/index.html",
+    "main.39a36b2b.css.map": "/ProiectPIUG/static/css/main.39a36b2b.css.map",
+    "main.0559187b.js.map": "/ProiectPIUG/static/js/main.0559187b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39a36b2b.css",
+    "static/js/main.0559187b.js"
+  ]
+}
