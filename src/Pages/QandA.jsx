@@ -85,7 +85,7 @@ function QandA() {
           })
         }
       />
-      <div style={{ backgroundColor: darkMode ? '#2c2c2c' : '#f5f5f5', padding: '20px', textAlign: 'center', }}>
+      <div style={{ backgroundColor: darkMode ? '#2c2c2c' : '#f5f5f5', padding: '10px', textAlign: 'center' }}>
         <Button component="a" href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer" color="primary" variant="text" style={{ margin: '0 10px' }}>
           <InstagramIcon />
         </Button>
@@ -95,7 +95,7 @@ function QandA() {
         <Button component="a" href="https://twitter.com/" target="_blank" rel="noopener noreferrer" color="primary" variant="text" style={{ margin: '0 10px' }}>
           <TwitterIcon />
         </Button>
-        <p style={{ color: darkMode ? '#fff' : 'rgba(0, 0, 0, 0.87)', marginTop: '10px', fontSize: '14px' }}>
+        <p style={{ color: darkMode ? '#fff' : 'rgba(0, 0, 0, 0.87)', marginTop: '10px', fontSize: '12px' }}>
           &copy; 2023 CarCharms. All rights reserved.
         </p>
       </div>
